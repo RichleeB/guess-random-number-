@@ -1,6 +1,6 @@
 from random import randint
 low = 0
-high = 100
+high = 500
 
 correct = randint(low, high)
 print(f"Guess a number between {high} and {low}:")
